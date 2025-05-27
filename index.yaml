@@ -3,7 +3,17 @@ entries:
   vulnerabilityslo:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-05-27T09:35:48.854489126Z"
+    created: "2025-05-27T10:05:36.298399194Z"
+    description: A Helm chart for VulnerabilitySLO application
+    digest: cf0ab7c360db1bc919cf71c9a7684284bc6c7afbb579eeb38760bceedeb09fac
+    name: vulnerabilityslo
+    type: application
+    urls:
+    - https://vulnerabilityslo.github.io/helm-charts/vulnerabilityslo-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-05-27T10:05:36.298078988Z"
     description: A Helm chart for VulnerabilitySLO application
     digest: b0f927a08cc323d7ce7ea4b4c235756cf88888098c016169aa2202deacf3f3e9
     name: vulnerabilityslo
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://vulnerabilityslo.github.io/helm-charts/vulnerabilityslo-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-27T09:35:48.854076958Z"
+generated: "2025-05-27T10:05:36.297634069Z"
